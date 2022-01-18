@@ -11,5 +11,5 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with coding knowledge in general.
 - 📫 How to reach me: @mipodiw
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: It's been overa year since I decided to go sober!😎
+- ⚡ Fun fact: It's been over a year since I decided to go sober!😎
 
