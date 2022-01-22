@@ -12,8 +12,9 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate with other developers around the world🌎.
 - 🤔 I’m looking for help to get a job and improve my coding skills in general.
 - 📫 How to reach me: **[@mipodiw](https://twitter.com/mipodiw)**
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: It's been over a year since I decided to go sober!😎
 
 ![applause](https://media.giphy.com/media/QBC5foQmcOkdq/giphy.gif)
 
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=funamioh&show_icons=true&theme=radical" 
+/>
