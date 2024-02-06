@@ -7,8 +7,6 @@
 
 Here are some ideas to get you started:-->
 
-- 💜 **[SheCodes](https://www.shecodes.io/) Almna**
-
 
 ![applause](https://media.giphy.com/media/QBC5foQmcOkdq/giphy.gif)
 
