@@ -2,6 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=funamioh&color=green)
 
+- Le Wagon Tokyo alumna👩‍🎓
+- Currently working as a project manager in a global team🌏
+- eagerly looking for an opportunity as a backend developer👩🏻‍💻
+- I'm very proud for my featured projects, Kanji Cam, Caravana, and my team mates!🎊
+- Always keep polishing my web development skills
+
 <!--
 **funamioh/funamioh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
