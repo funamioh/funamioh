@@ -1,5 +1,4 @@
-## Hi I'm Miho Funayama👋
-
+## Hi I'm Miho Funayama, fullstack developer based in Japan👋
 <table>
   <tr>
     <td width="50%">
