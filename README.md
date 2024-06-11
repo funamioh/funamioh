@@ -6,10 +6,10 @@
 ![](https://komarev.com/ghpvc/?username=funamioh&color=green)
 
 - Le Wagon Tokyo alumna👩‍🎓
-- Currently working as a project manager in a global team🌏
+- Former PjM in a global team🌏
 - eagerly looking for an opportunity as a backend developer👩🏻‍💻
 - I'm very proud of my featured projects, [Kanji Cam](https://kanji-cam-miho-2cba8719681c.herokuapp.com/), [Caravana](https://caravana-miho-328b8c5c8cfd.herokuapp.com/), and my team mates ([Vincent](https://github.com/NHV33), [Tiger](https://github.com/Toralulu), and [Taka](https://github.com/tak-hiro0503))!🎊
-- Always keep polishing my web development skills
+- Currently polishing my skills and building app in RoR and Node.js
 
 ### Languages and Tools
 ![Ruby](https://img.shields.io/badge/-Ruby-3776AB?style=flat&logo=Ruby&logoColor=white)
