@@ -15,6 +15,7 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-3776AB?style=flat&logo=Ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-3776AB?style=flat&logo=Rubyonrails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=JavaScript&logoColor=white)
+![ Node.js](https://img.shields.io/badge/-Node.js-3776AB?style=flat&logo=Node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3776AB?style=flat&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-3776AB?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-3776AB?style=flat&logo=CSS3&logoColor=white)
