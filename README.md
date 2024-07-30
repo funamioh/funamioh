@@ -37,7 +37,7 @@ Here are some ideas to get you started:-->
 ![applause](https://media.giphy.com/media/QBC5foQmcOkdq/giphy.gif)
 
 ### Most used languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=funamioh)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=funamioh&layout=compact)
 
 
 </td>
