@@ -1,12 +1,12 @@
-## Hi I'm Miho Funayama, fullstack developer based in Japan👋
+## Hi I'm Miho Funayama, frontend developer based in Japan👋
 <table>
   <tr>
     <td width="50%">
 
-- eagerly looking for an opportunity as a frontend/full-stack developer👩🏻‍💻
+- currently Headstarter AI fellow and thrilled to start my new position as a frontend dev in Sep👩🏻‍💻🎉
 - Former PjM in a global team🌏
 - I'm very proud of my featured projects, [Kanji Cam](https://kanji-cam-miho-2cba8719681c.herokuapp.com/), [Caravana](https://caravana-miho-328b8c5c8cfd.herokuapp.com/), and my team mates ([Vincent](https://github.com/NHV33), [Tiger](https://github.com/Toralulu), and [Taka](https://github.com/tak-hiro0503))!🎊
-- Currently learning TypeScript and LangChain
+- Currently learning TypeScript, LangChain, and RAG (not the one to clean my kitchen)
 
 ### Languages and Tools
 ![Ruby](https://img.shields.io/badge/-Ruby-3776AB?style=flat&logo=Ruby&logoColor=white)
