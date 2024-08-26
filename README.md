@@ -5,8 +5,8 @@
 
 - currently Headstarter AI fellow and thrilled to start my new position as a frontend dev in Sep👩🏻‍💻🎉
 - Former PjM in a global team🌏
-- I an building AI Copywriting solution with my fantastic teammates from Headstarter AI fellowship, [Farheen](https://github.com/SyedaFarheen1), [Juanita](https://github.com/JuanitaCathy), and [Cindy](https://github.com/Cindy0202-mae)!🚀✨
-- I built [Kanji Cam](https://kanji-cam-miho-2cba8719681c.herokuapp.com/) and [Caravana](https://caravana-miho-328b8c5c8cfd.herokuapp.com/) with my terrific teammates from Le Wagon, ([Vincent](https://github.com/NHV33), [Tiger](https://github.com/Toralulu), and [Taka](https://github.com/tak-hiro0503))!🎊
+- I an building 🤖[AI Copywriting solution](https://www.novacopyai.xyz/) with my fantastic teammates from Headstarter AI fellowship, [Farheen](https://github.com/SyedaFarheen1), [Juanita](https://github.com/JuanitaCathy), and [Cindy](https://github.com/Cindy0202-mae)!🚀✨
+- I built [Kanji Cam](https://kanji-cam-miho-2cba8719681c.herokuapp.com/) and [Caravana](https://caravana-miho-328b8c5c8cfd.herokuapp.com/) with my terrific teammates from Le Wagon, [Vincent](https://github.com/NHV33), [Tiger](https://github.com/Toralulu), and [Taka](https://github.com/tak-hiro0503)!🎊
 - Currently learning TypeScript, LangChain, and RAG (not the one to clean my kitchen)
 
 ### Languages and Tools
