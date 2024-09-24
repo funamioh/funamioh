@@ -7,7 +7,7 @@
 - Former PjM in a global team🌏
 - I am building 🤖[AI Copywriting solution](https://www.novacopyai.xyz/) with my fantastic teammates from Headstarter AI fellowship, [Farheen](https://github.com/SyedaFarheen1), [Juanita](https://github.com/JuanitaCathy), and [Cindy](https://github.com/Cindy0202-mae)!🚀✨
 - I built [Kanji Cam](https://kanji-cam-miho-2cba8719681c.herokuapp.com/) and [Caravana](https://caravana-miho-328b8c5c8cfd.herokuapp.com/) with my terrific teammates from Le Wagon, [Vincent](https://github.com/NHV33), [Tiger](https://github.com/Toralulu), and [Taka](https://github.com/tak-hiro0503)!🎊
-- Currently learning TypeScript, Node.js, and RAG (Retrieval-augmented generation)
+- Currently learning TypeScript
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=JavaScript&logoColor=white)
