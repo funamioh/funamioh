@@ -1,4 +1,4 @@
-## Hi I'm Miho Funayama, frontend developer based in Japan👋
+## Hi I'm Miho Funayama, software engineer/PMO based in Japan👋
 
 <!-- - currently Headstarter AI fellow and thrilled to start my new position as a frontend dev in Sep👩🏻‍💻🎉
 - Former PjM in a global team🌏
